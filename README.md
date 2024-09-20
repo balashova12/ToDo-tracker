@@ -4,6 +4,9 @@
 
 This application enable user to create, edit and delete tasks.
 
+![image](https://github.com/user-attachments/assets/10443b50-c869-449a-809e-d7a967ae857b)
+
+
 ## Technologies
 
 -   Frontend: [JavaScript]
